@@ -10,7 +10,7 @@ This method requires the least amount of effort, but is also the least flexible.
 2. Click on the notebook you are interested in.
 [Notebook shown in github with link to colab](notebook_example_github.png)
 3. Click on the colab link in the introduction to the notebook.
-[Notebook viewed in colab](notebook_sample_colab.png)
+[Notebook viewed in colab](notebook_example_colab.png)
 
 ## RADPS Hub Method
 
