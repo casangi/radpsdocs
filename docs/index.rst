@@ -4,8 +4,8 @@
 
 
 .. toctree::
-   :hidden:
    :maxdepth: 3
 
+   building_docs.md
    notebook_review.md
 
