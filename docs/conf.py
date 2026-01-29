@@ -7,7 +7,7 @@ sys.path.insert(0, os.path.abspath('..'))
 # -- Project information -----------------------------------------------------
 
 project = u'radpsdocs'
-copyright = u'2025, Associated Universities, Inc'
+copyright = u'2025-2026, Associated Universities, Inc'
 author = u'National Radio Astronomy Observatory'
 
 # The short X.Y version

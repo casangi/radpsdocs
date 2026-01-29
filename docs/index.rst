@@ -1,4 +1,5 @@
-# RADPS Documentation
+RADPS Documentation
+===================
 
 `radpsdocs` are the documentation for RADPS, including notebook testing instructions.
 
