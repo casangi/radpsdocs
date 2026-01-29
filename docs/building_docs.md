@@ -78,7 +78,11 @@ This includes:
 
 5. Further commits should be pushed to the same feature branch. These will propagate to the PR.
 
-6. Ensure the RTD build passes in the PR. Request a review of the changes prior to merging.
+6. Ensure the RTD build passes in the PR. Each commit will trigger a test build on RTD to preview changes: 
+
+    ![Link to RTD build in the PR](../rtd_build_pr.png)
+
+    Request a review of the changes prior to merging.
 
 7. After merging, update your local clone and your fork, and delete the feature branch:
 
