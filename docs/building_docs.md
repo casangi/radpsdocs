@@ -85,11 +85,15 @@ This includes:
 
     Request a review of the changes prior to merging.
 
-7. After merging, you can click the delete branch button on the github PR, update your local clone and your fork, and delete the local feature branch:
+7. After merging,
+
+* click the delete branch button on the github PR
+
+* update your local clone and your fork, and delete the local feature branch:
 
     ```
     git checkout main
     git pull upstream main
-    git branch -d <new or changed file(s)>
+    git branch -d <your_branch_name>
     git push origin main
     ```
