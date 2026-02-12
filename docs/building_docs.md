@@ -89,6 +89,9 @@ This includes:
 
 * click the delete branch button on the github PR
 
+
+    ![Delete Branch in PR](nuke_branch.png)
+
 * update your local clone and your fork, and delete the local feature branch:
 
     ```
