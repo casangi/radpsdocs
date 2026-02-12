@@ -85,7 +85,7 @@ This includes:
 
     Request a review of the changes prior to merging.
 
-7. After merging, update your local clone and your fork, and delete the feature branch:
+7. After merging, you can click the delete branch button on the github PR, update your local clone and your fork, and delete the local feature branch:
 
     ```
     git checkout main
