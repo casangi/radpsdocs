@@ -45,7 +45,7 @@ Contributions should follow the the [git feature branch workflow](https://www.at
 
 This includes:
 
-1. Create a fork of the branch (if one does not exist) from the `radpsdocs` page (https://github.com/casangi/radpsdocs).
+1. Create a fork of the `radpsdocs` repository (if one does not exist) from the `radpsdocs` page (https://github.com/casangi/radpsdocs).
 
 2. Locally, clone the forked repository from the fork's github page. The link to clone can be copied from the green "<> Code" button. 
 
@@ -64,7 +64,8 @@ This includes:
 3. Create a new feature branch. Update and commit to the feature branch.
 
     ```
-    git branch <your_branch_name>
+    git checkout -b <your_branch_name>
+    # make your changes
     git add <new or changed file(s)>
     git commit -m "Your commit description"
     ...
