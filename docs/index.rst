@@ -8,5 +8,6 @@ RADPS Documentation
    :maxdepth: 3
 
    building_docs.md
+   review_instructions.md
    notebook_review.md
 
